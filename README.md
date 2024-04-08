@@ -8,11 +8,16 @@ Passionate about safeguarding the digital frontier, I specialize in vulnerabilit
 
 
 <h2>Cybersecurity Projects:</h2>
-Fraud Analysis - Creating a Splunk Dashboard to Combat Financial Fraud 
+
+[Fraud Analysis - Creating a Splunk Dashboard to Combat Financial Fraud](https://github.com/GuyCPalmer/Fraud-Analysis---Splunk-Dashboard-to-Combat-Financial-Fraud)
+
 
 <h2> Certifications: </h2>
 
- [ ESCP Cybersecurity Professional](https://www.credly.com/badges/e47d35a9-b365-42e4-9f84-1024ef502501/linked_in_profile)
+ [ESCP Cybersecurity Professional](https://www.credly.com/badges/e47d35a9-b365-42e4-9f84-1024ef502501/linked_in_profile)
+
+
+ 
  <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
