@@ -5,8 +5,7 @@
 
 <h2> Certifications: </h2>
 
-ESCP Cybersecurity Professional [
-](https://www.credly.com/badges/e47d35a9-b365-42e4-9f84-1024ef502501/linked_in_profile)
+ [ ESCP Cybersecurity Professional](https://www.credly.com/badges/e47d35a9-b365-42e4-9f84-1024ef502501/linked_in_profile)
  <!--Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
