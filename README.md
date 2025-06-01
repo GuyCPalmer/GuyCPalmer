@@ -2,7 +2,7 @@
 
 <h2>About Me</h2>
 
-🔒 Cybersecurity Enthusiast | Ethical Hacker 🛡️ | Lifelong Learner
+🔒 IT Professional | Cybersecurity Enthusiast | Ethical Hacker 🛡️ | Lifelong Learner
 
 Passionate about safeguarding the digital frontier, I specialize in vulnerability assessment, penetration testing, threat analysis, and the development of robust security frameworks. With a keen eye for vulnerabilities and a fervent commitment to innovation, my GitHub is a repository of projects aimed at fortifying cyber defenses and sharing knowledge with the community. Let's connect and make the digital world a safer place for everyone.
 
