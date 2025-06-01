@@ -1,4 +1,4 @@
-<h1>Hi, I'm Guy! <br/> <a href="https://www.linkedin.com/in/guy-palmer/">IT Professional</a></h1>
+<h1>Hi, I'm Guy! <br/> <a href="https://www.linkedin.com/in/guy-palmer/">IT Professional and Cybersecurity Enthusiast</a></h1>
 
 <h2>About Me</h2>
 
