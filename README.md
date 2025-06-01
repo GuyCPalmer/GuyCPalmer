@@ -11,7 +11,7 @@ Passionate about safeguarding the digital frontier, I specialize in vulnerabilit
 
 [Fraud Analysis - Creating a Splunk Dashboard to Combat Financial Fraud](https://github.com/GuyCPalmer/Fraud-Analysis---Splunk-Dashboard-to-Combat-Financial-Fraud)
 
-[Real Time Stock Market Dashboard] https://github.com/GuyCPalmer/Real-Time-Stock-Market-Dashboard
+[Real Time Stock Market Dashboard](https://github.com/GuyCPalmer/Real-Time-Stock-Market-Dashboard)
 
 <h2> Certifications: </h2>
 
