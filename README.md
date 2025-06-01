@@ -16,6 +16,7 @@ Passionate about safeguarding the digital frontier, I specialize in vulnerabilit
 <h2> Certifications: </h2>
 
 [ESCP Cybersecurity Professional](https://www.credly.com/badges/e47d35a9-b365-42e4-9f84-1024ef502501/linked_in_profile)
+
 [CompTIA Security+](https://www.credly.com/badges/717f7801-f316-4bb7-8299-a25082580299/public_url)
 
 
