@@ -4,7 +4,7 @@
 
 🔒 IT Professional | Cybersecurity Enthusiast | Ethical Hacker 🛡️ | Lifelong Learner
 
-Passionate about safeguarding the digital frontier, I specialize in vulnerability assessment, penetration testing, threat analysis, and the development of robust security frameworks. With a keen eye for vulnerabilities and a fervent commitment to innovation, my GitHub is a repository of projects aimed at fortifying cyber defenses and sharing knowledge with the community. Let's connect and make the digital world a safer place for everyone.
+IT Manager transitioning to Cloud Security Engineering with a focus on Identity & Access Management and Azure security architecture. Hands-on experience with Microsoft Entra ID, Active Directory, SCIM provisioning, and security integrations at enterprise scale. Currently building cloud security expertise through Azure certifications (AZ-104, AZ-500) and practical security projects. Passionate about securing cloud infrastructure and solving complex IAM challenges.
 
 
 <h2>Projects:</h2>
